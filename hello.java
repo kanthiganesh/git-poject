@@ -2,7 +2,8 @@ public class
 {
 	public static void main(String args[])
 	{
-		System.out.println("hello");
+		int a;
+		System.out.println(a);
 	}
 
 }
